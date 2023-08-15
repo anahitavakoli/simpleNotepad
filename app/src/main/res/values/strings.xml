@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Simple Notepad</string>
+    <string name="title">Enter Title</string>
+    <string name="descripton">Enter Descripton</string>
+    <string name="date">Date</string>
+    <string name="time">Time</string>
+    <string name="save">Save</string>
+</resources>
