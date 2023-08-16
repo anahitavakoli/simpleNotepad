@@ -1,3 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="low_margin">16dp</dimen>
+    <dimen name="icon_size">32dp</dimen>
 </resources>
